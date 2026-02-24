@@ -1,4 +1,4 @@
-# BattleShip-Game-C
+# BattleShip Game
 
 This project is a terminal-based Battleship strategy game developed using the C programming language. The project focuses on fundamental programming logic, two-dimensional array management, and dynamic user interaction.
 
